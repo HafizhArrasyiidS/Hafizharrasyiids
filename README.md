@@ -1,7 +1,7 @@
 [![MasterHead](https://media.licdn.com/dms/image/D5616AQF9zWAIRLOCyw/profile-displaybackgroundimage-shrink_350_1400/0/1721280877308?e=1727308800&v=beta&t=rRy7jZ-H-BpsWFoIjYMYIH78pDad_t7uLoJvAkEByf8)](https://www.linkedin.com/in/hafizh-arrasyiid-syahbana-3ab844291/)
 <h1 align="center">Hi 👋, I'm Hafizh Arrasyiid Syahbana</h1>
 <h3 align="center">A Mobile Application Developer</h3>
-<img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hafizharrasyiids&label=Profile%20views&color=0e75b6&style=flat" alt="hafizharrasyiids" /> </p>
 
