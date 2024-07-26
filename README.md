@@ -1,4 +1,4 @@
-[![MasterHead](https://pressplayid.com/cdn/shop/products/a767ea16-9b8d-4960-a5d1-b17970dc30ba-copy-of-photo-31-10-23-141826.jpg?v=1705915017&width=713)](https://rishavchanda.io)
+[![MasterHead](https://media.licdn.com/dms/image/D5616AQF9zWAIRLOCyw/profile-displaybackgroundimage-shrink_350_1400/0/1721280877308?e=1727308800&v=beta&t=rRy7jZ-H-BpsWFoIjYMYIH78pDad_t7uLoJvAkEByf8)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Hafizh Arrasyiid Syahbana</h1>
 <h3 align="center">A Mobile Application Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
