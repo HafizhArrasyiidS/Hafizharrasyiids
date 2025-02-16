@@ -7,16 +7,6 @@
 <h3 align="center">A Mobile Application Developer</h3>
 
 <br/>
-
-<div align="center">
- 
- 🔭 I’m currently a student at **SMKN 1 Bangil**
-
-💬 Ask me about **Flutter, React... or anything [here](https://github.com/hafizharrasyiids/hafizharrasyiids/issues)**
-
-⚡ Fun fact **i'm funny**
-
- </div>
  
 <div align="center"> 
   <a href="mailto:hafizhas14des@gmail.com">
